@@ -1,3 +1,7 @@
+.help-block.text-danger ul {
+	list-style: none;
+}
+
 .words-slider {
 	position: relative;
 	width: 100%;
