@@ -16,9 +16,9 @@
 	margin-left: -200px;
 	width: 400px;
 
-	-webkit-animation: rotateWord 30s linear infinite 0s;
-	-ms-animation: rotateWord 30s linear infinite 0s;
-	animation: rotateWord 30s linear infinite 0s;
+	-webkit-animation: rotateWord 27s linear infinite 0s;
+	-ms-animation: rotateWord 27s linear infinite 0s;
+	animation: rotateWord 27s linear infinite 0s;
 }
 
 .words-slider span:nth-child(2) { 
